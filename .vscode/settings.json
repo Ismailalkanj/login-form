@@ -1,0 +1,5 @@
+{
+    "emmet.syntaxProfiles": {
+        "liveServer.settings.CustomBrowser": "chrome"
+    }
+}
